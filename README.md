@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Kunal Verma
 
-<!--
-**kunal3948/kunal3948** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 PHP Developer | Full Stack Developer
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 BCA Student at Jagran College of Arts, Science and Commerce
+- 🌱 Currently learning Advanced PHP & CodeIgniter
+- 🔭 Working on Web Development Projects
+- 💾 Skilled in PHP, MySQL, CodeIgniter, Django, Python
+- 📍 Kanpur, India
+
+## Tech Stack
+
+PHP | Python | MySQL | JavaScript | HTML | CSS | Bootstrap | CodeIgniter 3 | Django | Git | GitHub
+
+## Projects
+
+### Hospital Management System
+- Django based hospital management solution
+- Patient records management
+- Appointment scheduling
+
+### Expense Tracker
+- Built using PHP, MySQL and CodeIgniter 3
+- Expense categorization
+- CRUD functionality
+
+## Connect With Me
+
+- LinkedIn
+- Email
