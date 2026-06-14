@@ -28,5 +28,8 @@ PHP | Python | MySQL | JavaScript | HTML | CSS | Bootstrap | CodeIgniter 3 | Dja
 
 ## Connect With Me
 
-- LinkedIn
-- Email
+📧 Email: vanshknp111@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/kunal-verma-762657349/
+
+💻 GitHub: github.com/kunal3948
